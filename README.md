@@ -5,7 +5,8 @@ A FabMenu widget Demo for Flutter.
 ![screenshot](/screenshot/fabmenu.gif)
 
 ## Demo
-``import 'package:flutter/material.dart';
+```
+import 'package:flutter/material.dart';
   import 'fab_menu.dart';
   void main() => runApp(FabMenuDemo());
   
@@ -40,5 +41,6 @@ A FabMenu widget Demo for Flutter.
         ),
       );
     }
-  }``
+  }
+  ```
 
